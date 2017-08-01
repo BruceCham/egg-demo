@@ -1,0 +1,230 @@
+{
+  "keys": "/Users/zhanglitao/git/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/zhanglitao/git/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/zhanglitao/git/egg-example/config/config.default.js"
+    },
+    "root": "/Users/zhanglitao/git/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/zhanglitao/git/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/zhanglitao/git/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/zhanglitao/git/egg-example/config/config.default.js",
+    "serverUrl": "/Users/zhanglitao/git/egg-example/config/config.default.js"
+  },
+  "middleware": "/Users/zhanglitao/git/egg-example/config/config.default.js",
+  "robot": {
+    "ua": "/Users/zhanglitao/git/egg-example/config/config.local.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/zhanglitao/git/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/zhanglitao/git/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/zhanglitao/git/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/zhanglitao/git/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/zhanglitao/git/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/zhanglitao/git/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/zhanglitao/git/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/zhanglitao/git/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/zhanglitao/git/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/zhanglitao/git/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/zhanglitao/git/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/zhanglitao/git/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/zhanglitao/git/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/zhanglitao/git/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/zhanglitao/git/egg-example/node_modules/egg-multipart/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/zhanglitao/git/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/zhanglitao/git/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/zhanglitao/git/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/zhanglitao/git/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/zhanglitao/git/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/zhanglitao/git/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/zhanglitao/git/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/zhanglitao/git/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/zhanglitao/git/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/zhanglitao/git/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/zhanglitao/git/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/zhanglitao/git/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/zhanglitao/git/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/zhanglitao/git/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/zhanglitao/git/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/zhanglitao/git/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/zhanglitao/git/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/zhanglitao/git/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/zhanglitao/git/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/zhanglitao/git/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/zhanglitao/git/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/zhanglitao/git/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/zhanglitao/git/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/zhanglitao/git/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/zhanglitao/git/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.local.js"
+    }
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "coreMiddleware": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/zhanglitao/git/egg-example/node_modules/egg/config/config.default.js"
+}
