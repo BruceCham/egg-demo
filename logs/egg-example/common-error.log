@@ -83,3 +83,255 @@ res: { status: -2, statusCode: -2, headers: {}, size: 0, aborted: false, rt: 500
 pid: 6064
 hostname: zhanglitaos-MacBook-Pro.local
 
+2017-08-01 21:17:47,402 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1917180ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-01 21:27:27,600 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 560188ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-01 21:49:57,722 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1350095ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-01 22:05:36,972 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 918866ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-01 22:22:06,157 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 989162ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-01 23:09:20,389 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1895029ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-01 23:41:42,401 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1921975ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-01 23:57:21,772 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 919319ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 00:13:55,808 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 994028ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 00:21:04,764 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 408912ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 00:37:36,004 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 920072ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 01:09:36,066 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1919885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 01:25:15,319 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 919228ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 01:57:07,792 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1912448ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 02:28:29,609 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1861531ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 02:44:08,612 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 918737ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 03:16:12,570 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1923946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 03:31:51,784 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 919199ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 03:47:57,179 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 965376ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 04:19:32,675 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1875455ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 04:35:12,824 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 920077ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 04:51:21,673 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 968833ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 05:07:00,607 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 918917ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 05:23:35,749 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 995132ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 05:55:05,606 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 1869844ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 06:10:44,766 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 919136ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 06:27:08,265 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 983481ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
+2017-08-02 09:37:54,726 ERROR 6063 nodejs.ClusterClientNoResponseError: client no response in 11426004ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhanglitao/git/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 6063
+hostname: zhanglitaos-MacBook-Pro.local
+
