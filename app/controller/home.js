@@ -1,7 +1,7 @@
 const Egg = require('egg')
 
 class HomeController extends Egg.Controller {
-  * index() {
+  async index() {
     this.ctx.body = 'hello world'
   }
 }

@@ -1,7 +1,7 @@
 const Egg = require('egg')
 
 class PostController extends Egg.Controller{
-  * create(){
+  async create(){
     const {ctx, service} = this
     const createRule = {
       title: {
@@ -16,7 +16,7 @@ class PostController extends Egg.Controller{
     // 组装参数
     const author = ctx.session.userId
     const req = Object.assign(ctx.request.body, {author})
-    const res = yield service.post.create(req)
+    const res = await service.post.create(req)
     ctx.body = {
       id: res.id
     }

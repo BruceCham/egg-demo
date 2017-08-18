@@ -12,6 +12,10 @@ exports.news = {
   serverUrl: 'https://hacker-news.firebaseio.com/v0',
 }
 
+exports.weather = {
+  serverUrl: 'http://www.weather.com.cn/data/sk'
+}
+
 exports.middleware = ['robot']
 
 exports.robot = {

@@ -1,9 +1,9 @@
 const Egg = require('egg')
 
 class NewsService extends Egg.Service{
-  * list(page=1){
+  async list(page=1){
     const {serverUrl, pageSize} = this.app.config.news
-    const {data: idList} = yield this.ctx.curl(`${serverUrl}/topstories.json`,{
+    const {data: idList} = await this.ctx.curl(`${serverUrl}/topstories.json`,{
       data: {
         orderBy: '"$key"',
         startAt: `"${pageSize * (page-1)}"`,
@@ -12,7 +12,7 @@ class NewsService extends Egg.Service{
       dataType: 'json'
     })
   
-    const newsList = yield Object.keys(idList).map(key=>{
+    const newsList = await Object.keys(idList).map(key=>{
       const url = `${serverUrl}/item/${idList[key]}.json`
       return this.ctx.curl( url, {dataType: 'json'} )
     })

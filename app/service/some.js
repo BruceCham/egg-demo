@@ -1,6 +1,6 @@
 module.exports = app => {
     class SomeService extends app.Service {
-        * list(){
+        async list(){
             const rule = this.app.config.robot.ua
         }
     }

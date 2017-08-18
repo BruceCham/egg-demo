@@ -13,6 +13,9 @@
     "pageSize": "/Users/zhanglitao/git/egg-example/config/config.default.js",
     "serverUrl": "/Users/zhanglitao/git/egg-example/config/config.default.js"
   },
+  "weather": {
+    "serverUrl": "/Users/zhanglitao/git/egg-example/config/config.default.js"
+  },
   "middleware": "/Users/zhanglitao/git/egg-example/config/config.default.js",
   "robot": {
     "ua": "/Users/zhanglitao/git/egg-example/config/config.local.js"

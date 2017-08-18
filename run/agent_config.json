@@ -234,6 +234,9 @@
       "pageSize": 5,
       "serverUrl": "https://hacker-news.firebaseio.com/v0"
     },
+    "weather": {
+      "serverUrl": "http://www.weather.com.cn/data/sk"
+    },
     "middleware": [
       "robot"
     ],

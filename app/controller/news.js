@@ -1,12 +1,12 @@
 const Egg = require('egg')
 
 class NewsController extends Egg.Controller{
-  * list(){
+  async list(){
     const ctx = this.ctx
     const page = ctx.query.page || 1
-    const newsList = yield ctx.service.news.list(page)
+    const newsList = await ctx.service.news.list(page)
     
-    yield this.ctx.render('news/list.tpl', {list: newsList})
+    await this.ctx.render('news/list.tpl', {list: newsList})
   }
 }
 
